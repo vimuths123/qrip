@@ -1,0 +1,21 @@
+{
+    "name": "vimuths123/qrip",
+    "description": "Paypal library",
+    "type": "ddd",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vimuth",
+            "email": "vimuths@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vimuths123\\qrip" : "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
