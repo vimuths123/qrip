@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "vimuths123\\qrip" : "src/"
+            "vimuths123\\qrip\\" : "src/"
         }
     },
     "minimum-stability": "dev",
